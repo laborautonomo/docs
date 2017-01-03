@@ -1,6 +1,0 @@
-- Download the framework
-- Unzip the package.
-- Upload the framework files to your server. Normally the index.php file will be at your root.
-- Open the index.php file with a text editor, setup your routes.
-- Open core/config.php and set your base URL and database credentials (if a database is needed). Set the default theme.
-- Edit .htaccess file and save the base path. (if the framework is installed in a folder the base path should reflect the folder path /path/to/folder/ otherwise a single / will do.
